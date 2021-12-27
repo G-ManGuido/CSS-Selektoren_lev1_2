@@ -1,0 +1,26 @@
+section{
+    background-color: #A5D6A7;
+}
+H1 {
+    background-color: #4DD0E1;
+}
+H2 {
+    background-color: #7986cb;
+}
+
+section P {
+    background-color: #C5CAE9;
+}
+
+article{
+    background-color: #F48Fb1;
+}
+
+article P{
+background-color: #FF8A65;
+}
+
+button{
+    background-color: #304FFE;
+    color: #fff;
+}
